@@ -2,6 +2,7 @@
 
 ![alt text](fig/parity-models.png "Example of a parity model with k=3 and r=1")
 
+Docker env is important.
 Coded computation is an emerging approach that applies ideas from coding
 theory to impart resource-efficient resilience against slowdowns and failures
 that occur in large-scale distributed computing systems. This repository
